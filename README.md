@@ -1,6 +1,9 @@
 # Three.js Starter
 Courtesy of Bruno Simon of https://threejs-journey.xyz/
 
+# Description
+I used this three.js starter as a way to host a Blender model with my DevOps projects. 
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
